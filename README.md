@@ -1,1 +1,1 @@
-formulario de registro doguito petshop
+doguito-petshop-registration-form
